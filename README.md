@@ -2,7 +2,7 @@
 
 The motivation for creating this repository came from this blog post: [The One Method I’ve Used to Eliminate Bad Tech Hires](https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/).
 
-It doesn't eliminate the need of an interview, but helps to better assess the candidate skills and verify if he fits in our needs.
+It doesn't replace the interview, but helps to better assess the candidate skills and verify if he fits in our needs.
 
 Further explanations will be given to each candidate individually.
 
